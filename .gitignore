@@ -1,0 +1,5 @@
+.venv/
+input/*
+!input/.gitkeep
+app/images/*
+!app/images/.gitkeep
