@@ -2,6 +2,8 @@
 
 Add a slideshow of images to your GitHub Universe badge!
 
+![Demo of the slideshow cycling through photos on a GitHub Universe badge](demo.gif)
+
 
 # Installation
 - clone this repo
